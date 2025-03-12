@@ -3,4 +3,5 @@ module GUI {
     exports Lib_GUI.GUI;
     requires java.desktop;
     requires Library.Core;
+    requires java.sql;
 }
