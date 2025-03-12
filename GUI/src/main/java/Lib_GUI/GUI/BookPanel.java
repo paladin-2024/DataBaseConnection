@@ -1,4 +1,7 @@
 package Lib_GUI.GUI;
 
-public class BookPanel {
+import javax.swing.*;
+
+
+public class BookPanel extends JPanel {
 }
